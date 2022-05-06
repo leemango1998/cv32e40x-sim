@@ -1,3 +1,7 @@
+# This is a very simple testbench for CV32E40X RISC-V CPU
+Change directory into [sw](https://github.com/leemango1998/cv32e40x-sim/tree/main/sw) to see more. 
+
+
 # OpenHW Group CORE-V CV32E40X RISC-V IP
 
 CV32E40X is a small and efficient, 32-bit, in-order RISC-V core with a 4-stage pipeline that implements the following instruction set architecture:
